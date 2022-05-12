@@ -1,0 +1,106 @@
+peace to Empire-Strikes-Back, Hutt-Twins will be smashed against my armor like evil is smashed falling on Jesus
+
+:The-Twins
+  Boba-Fett, there's a business we need to discuss
+:_
+  this is my territory - programming
+:The-Twins
+  this is Jabba's territory - and now it's ours
+:_
+  i dont care what your tablet says -
+    your delusion to just-the-magician instruct to build a big-system 
+    for you to own and rule the galaxy
+  this is Mos Espa and i am the daimyo here - 
+    you want power, i'll give you yours - docker and self-hosed
+    like Jesus instructs me - give caesar caesar's
+:The-Twins
+  oh - is that so? why not program all from scratch
+  we'll tell you the vision - and you - jus, just - implement
+  you are so good - you build so fast - and we have the vision
+:_
+  you can bring as many gladiators as you wish - 
+    who almost-did-it for you just - just-the-excusian -  didn't put it out so they have 0 users
+  but these are not the death pits of Duur - 
+    private company with hidden code and programmers being chained
+    this is github - open source public and free
+    this is mediawiki - with millions of users, no - just -
+  and am not a sleeping Trandoshan guard
+    you think you can tie me up and put in your cellar by threatingly saying this-is-not-what-i-wanted! ?
+    like Lee-Mack says - wait till you eat it, pass out and wake up in me cellar
+:_
+  this territory is mine -  open-source self-hosted thoursands of programmers and millions of users protected
+  go back to Nal Hutta - wiki-repent or posts-in-chats-perish
+:The-Twins
+  you have upset my big-systemsfrom-scratch-sister, i am more patient than she is - she thinks we should kill you
+:_
+  your cousin Jabba is dead - program has 0 users, excuses dont count
+  his cowardly majordomo usurped his territory and then i killed him - he had 20 users? liquipedia has millions
+  all that belongs to me now - using your own docker can spin up mediawiki and - give it back to you
+  your sister is right - if you want it from scratch, you'll have to kill me for it - and program by yourself
+  like Paul-Hogan says - that'll relax you
+:The-Twins
+  mm
+  bloodshed is bad for business - tournament data is lost
+  this can be dealt with later
+  sleep lightly, bounty hunter
+
+i'm here for the armor - i will be self-hosted mediawiki for tournaments
+  it's not a big mission but it's a rocky one
+  but i will climb with patience like Alex Honnold and Cedar Wright on Sufferfest
+i will take best from
+  Liquipedia - brackets
+  Wikipeida - wiki, open , a standard
+  cloud - docker and docker-compose - Khonshu and Moon-Knight power against Ammit
+i will have no ui but mediawiki
+  to avoid the trap of just-a-button-here
+i will compute ratings
+  tournament pages will be of certain format i know with category - tournaments
+  i will parse them and write to db - then compute ratings
+  and - programmatically write-or-update ratings table to wiki as page
+i will generate brackets
+  i will have reverse proxy running - Traefik
+  using one of mediawiki's request i will intercept and send to my Wichita avatar - jvm or nodejs
+  use data from taht request, read data from db about users and ratings
+  generate brackets
+  and respond with programmatically generated wiki page showing ratings - those pages are temporary
+  user can press edit - copy generated bracket - and put into tournament page
+i will not be peer-to-peer
+  as it is incompatible with serving caesar - like Jesus says - cannot be both peer-to-peer and for Jabba-the-owner
+i will not be entirely free - caesar will affects me - but i will entirely money-notion-free
+  no money-ads-donate-coins-jobs-fundings-bounties-sponsors fatal error
+  no issue scratching on top of our heads
+  and bring to a minimum Starlord's smiley corporate coin-thiefy-greedy dad Ego
+    who spreads himself everywhere polluting Tython Temple - 
+    he'll be smashed against world-standard self-hosted mediawiki
+
+i am no project - like Eowyn is no man - i am one program - although docker-compose-split like Marc Specter
+  that is why i want to join Empire-Strikes-Back github namespace
+  i will provide healty Federer-Nadal-Djokovic competition
+  while staying focused on the mission - shield Mando from Moff Gideon
+  dont want to repogram the world - i am self-hosted not-custom-but-standard work-already-done
+i need a repository named Boba-Fett - like Commander Data in my commits i speak for myself - do to it this
+  run git init -b main - no masters - yes, like Brad Pitt says - i understand the conundrum of it all
+  add .gitconfig file with
+    [user]
+      name = Boba-Fett
+      email = Boba-Fett@bantha
+    
+    # git config --local include.path "../.gitconfig"
+  add Boba-Fett/program.txt file and fill it with me saying who i am
+  run git config --local include.path "../.gitconfig"
+  run git commit with message being a quote - mine, from actor's interview, from WILTY
+  remove issues projects wiki tabs
+i will be programmed by one person only - i trust Kuiil with it
+  Mando trusts him and so do i
+i will be continuously released as i grow as a whole program like Groot
+my first Tuskan challenge will be - urun mediawiki and use IPFS p2p-http-proxy to make requests without cloud
+
+i need from Kuiil what Mando says he needs from Kuiil
+  except Kuiil needs no couch to crash - sleeping bag/mat is enough - like Bear Grills
+  and - as much as Kuiil does not cook on footstoohl - he does cook in heaven - that's the point
+
+i dont want your armor - i want my armor
+
+
+:David-Mitchell i hate to say it, Lee - but you've slightly ruined my present
+:Lee-Mack wait till you eat it, pass out and wake up in me cellar

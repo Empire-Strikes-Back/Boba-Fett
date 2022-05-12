@@ -17,13 +17,6 @@ services:
     depends_on:
       - Sarah-Connor
 
-  Sarah-Connor:
-    image: lang/sarah-connor
-    build:
-      context: ./Boba-Fett/Sarah-Connor
-    volumes:
-      - sarah-connor:/data/ipfs
-
   Thrain:
     image: mariadb
     command: --max-allowed-packet=256M

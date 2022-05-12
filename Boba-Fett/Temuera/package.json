@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "4.18.1",
+    "ipfs-http-client": "56.0.3",
+    "node-abort-controller": "3.0.1",
+    "orbit-db": "0.28.5",
+    "ws": "8.6.0"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.18.0"
+  }
+}
